@@ -1,5 +1,4 @@
-export default function SaoPaulo ()
-{
+export default function SaoPaulo (){
     return (
         <div>
             <h1>Seja bem vindo ao estdo de São Paulo</h1>
@@ -9,7 +8,7 @@ export default function SaoPaulo ()
 </p>
  
 <p>
-    <img src="" />
+    <img src="SaoPaulo.jpg" />
 </p>
 
 <p>
