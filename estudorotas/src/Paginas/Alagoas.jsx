@@ -6,7 +6,7 @@ export default function Alagoas() {
             
             <p><img src="Alagoas.webp" /></p>
             
-            <p><a href="/Home.jsx">Voltar para Home</a></p>
+            <p><a href="/">Voltar para Home</a></p>
         </div>
     )
 }

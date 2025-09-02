@@ -1,6 +1,33 @@
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import Home from "./Paginas/Home";
+import Acre from "./Paginas/Acre";
+import Alagoas from "./Paginas/Alagoas";
+import Amapa from "./Paginas/Amapa";
+import Amazonas from "./Paginas/Amazonas";
+import Bahia from "./Paginas/Bahia";
+import Ceara from "./Paginas/Ceara";
+import DistritoFederal from "./Paginas/DistritoFederal";
+import EspiritoSanto from "./Paginas/EspiritoSanto";
+import Goias from "./Paginas/Goias";
+import Maranhao from "./Paginas/Maranhao";
+import MatoGrosso from "./Paginas/MatoGrosso";
+import MatoGrossoDoSul from "./Paginas/MatoGrossoDoSul";
+import MinasGerais from "./Paginas/MinasGerais";
+import Para from "./Paginas/Para";
+import Paraiba from "./Paginas/Paraiba";
+import Parana from "./Paginas/Parana";
+import Pernambuco from "./Paginas/Pernambuco";
+import Piaui from "./Paginas/Piaui";
+import RioDeJaneiro from "./Paginas/RioDeJaneiro";
+import RioGrandeDoNorte from "./Paginas/RioGrandeDoNorte";
+import RioGrandeDoSul from "./Paginas/RioGrandeDoSul";
+import Rondonia from "./Paginas/Rondonia";
+import Roraima from "./Paginas/Roraima";
+import SantaCatarina from "./Paginas/SantaCatarina";
 import SaoPaulo from "./Paginas/SaoPaulo";
+import Sergipe from "./Paginas/Sergipe";
+import Tocantins from "./Paginas/Tocantins";
+
 
 export default function App()
 {
