@@ -21,7 +21,7 @@ digite o segundo número <br />
 </p>
 
 <p>
-  <input type="button" value="Caucular" />
+  <input type="button" value="exercicio 1" />
 </p>
 </form>
 
